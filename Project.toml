@@ -1,0 +1,4 @@
+[deps]
+PatentsBase = "b32246e4-6301-4a4b-8d75-0b3972dc1401"
+PatentsLandscapes = "e90634b4-20e9-4340-8903-37f02b1a8a83"
+PatentsLens = "f4645b53-4539-42ef-9ea4-c70e89c10300"
