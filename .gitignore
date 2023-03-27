@@ -1,1 +1,5 @@
+.vscode/
 Manifest.toml
+*.jsonl
+*.db
+*.tmp
